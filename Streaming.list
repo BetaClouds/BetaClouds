@@ -1,123 +1,106 @@
-# > Netflix
-DOMAIN-SUFFIX,cookielaw.org
-DOMAIN-SUFFIX,netflix.ca
-DOMAIN-SUFFIX,netflixinvestor.com
-DOMAIN-SUFFIX,netflixtechblog.com
-DOMAIN-SUFFIX,netflix.com.edgesuite.net
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
-DOMAIN-SUFFIX,nflxsearch.net
-DOMAIN-SUFFIX,netflixdnstest1.com
-DOMAIN-SUFFIX,netflixdnstest2.com
-DOMAIN-SUFFIX,netflixdnstest3.com
-DOMAIN-SUFFIX,netflixdnstest4.com
-DOMAIN-SUFFIX,netflixdnstest5.com
-DOMAIN-SUFFIX,netflixdnstest6.com
-DOMAIN-SUFFIX,netflixdnstest7.com
-DOMAIN-SUFFIX,netflixdnstest8.com
-DOMAIN-SUFFIX,netflixdnstest9.com
-DOMAIN-SUFFIX,netflixdnstest10.com
-
-# > Disney+
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,disneystreaming.com
-DOMAIN-SUFFIX,dssott.com
-DOMAIN-SUFFIX,cdn.registerdisney.go.com
-
-# > Bahamut
-DOMAIN-SUFFIX,bahamut.akamaized.net
-DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,gamer2-cds.cdn.hinet.net
-DOMAIN-SUFFIX,gamer-cds.cdn.hinet.net
-
-# > TVBAnywhere+
-DOMAIN-SUFFIX,bigbigchannel.com.hk
-DOMAIN-SUFFIX,bigbigshop.com
-DOMAIN-SUFFIX,encoretvb.com
-DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,tvb.com.au
-DOMAIN-SUFFIX,tvbanywhere.com
-DOMAIN-SUFFIX,tvbanywhere.com.sg
-DOMAIN-SUFFIX,tvbc.com.cn
-DOMAIN-SUFFIX,tvbeventpower.com.hk
-DOMAIN-SUFFIX,tvbusa.com
-DOMAIN-SUFFIX,tvbweekly.com
-DOMAIN-SUFFIX,tvmedia.net.au
-
-# > Dazn
-DOMAIN-SUFFIX,dazn-api.com
-DOMAIN-SUFFIX,dazn.com
-DOMAIN-SUFFIX,dazndn.com
-DOMAIN-SUFFIX,indazn.com
-DOMAIN-SUFFIX,indaznlab.com
-
-# > HBO-Go-Asia
-DOMAIN-SUFFIX,cinemax.com
-DOMAIN-SUFFIX,forthethrone.com
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hboasia.com
-DOMAIN-SUFFIX,hbogo.co.th
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbogo.eu
-DOMAIN-SUFFIX,hbogoasia.com
-DOMAIN-SUFFIX,hbogoasia.hk
-DOMAIN-SUFFIX,hbogoasia.id
-DOMAIN-SUFFIX,hbogoasia.ph
-DOMAIN-SUFFIX,hbogoasia.sg
-DOMAIN-SUFFIX,hbogoasia.tw
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
-DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,maxgo.com
-DOMAIN-SUFFIX,hbo.com.c.footprint.net
-DOMAIN-SUFFIX,hbo.com.edgesuite.net
-DOMAIN-SUFFIX,hbo.map.fastly.net
-DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
-
-# > DMM
-DOMAIN-SUFFIX,dmm.com
-DOMAIN-SUFFIX,dmm-extension.com
-DOMAIN-SUFFIX,dmmapis.com
-DOMAIN-SUFFIX,api-p.videomarket.jp
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-SUFFIX,dmmrex.com
-
-# > Abema
-DOMAIN-SUFFIX,abema.io
-DOMAIN-SUFFIX,abema.tv
-DOMAIN-SUFFIX,abema-tv.com
-DOMAIN-SUFFIX,adx.promo
-DOMAIN-SUFFIX,ameba.jp
-DOMAIN-SUFFIX,amebame.com
-DOMAIN-SUFFIX,amebaownd.com
-DOMAIN-SUFFIX,amebaowndme.com
-DOMAIN-SUFFIX,ameblo.jp
-DOMAIN-SUFFIX,bucketeer.jp
-DOMAIN-SUFFIX,dokusho-ojikan.jp
-DOMAIN-SUFFIX,hayabusa.dev
-DOMAIN-SUFFIX,hayabusa.io
-DOMAIN-SUFFIX,hayabusa.media
-DOMAIN-SUFFIX,winticket.jp
-DOMAIN-SUFFIX,abematv.akamaized.net
-DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
-DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
-DOMAIN-SUFFIX,linear-abematv.akamaized.net
-DOMAIN-SUFFIX,vod-abematv.akamaized.net
-DOMAIN-SUFFIX,api.growthpush.com
-
-# > Niconico
-DOMAIN-SUFFIX,nicodic.jp
-DOMAIN-SUFFIX,nicomanga.jp
-DOMAIN-SUFFIX,niconico.com
-DOMAIN-SUFFIX,nicoseiga.jp
-DOMAIN-SUFFIX,nicovideo.jp
-DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,simg.jp
+DOMAIN-SUFFIX,cookielaw.org,🌍 国外媒体
+DOMAIN-SUFFIX,netflix.ca,🌍 国外媒体
+DOMAIN-SUFFIX,netflixinvestor.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixtechblog.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflix.com.edgesuite.net,🌍 国外媒体
+DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
+DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
+DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
+DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
+DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
+DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
+DOMAIN-SUFFIX,nflxsearch.net,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
+DOMAIN-SUFFIX,netflixdnstest10.com,🌍 国外媒体
+DOMAIN-SUFFIX,bamgrid.com,🌍 国外媒体
+DOMAIN-SUFFIX,disneyplus.com,🌍 国外媒体
+DOMAIN-SUFFIX,disney-plus.net,🌍 国外媒体
+DOMAIN-SUFFIX,disneystreaming.com,🌍 国外媒体
+DOMAIN-SUFFIX,dssott.com,🌍 国外媒体
+DOMAIN-SUFFIX,cdn.registerdisney.go.com,🌍 国外媒体
+DOMAIN-SUFFIX,bahamut.akamaized.net,🌍 国外媒体
+DOMAIN-SUFFIX,bahamut.com.tw,🌍 国外媒体
+DOMAIN-SUFFIX,gamer.com.tw,🌍 国外媒体
+DOMAIN-SUFFIX,gamer2-cds.cdn.hinet.net,🌍 国外媒体
+DOMAIN-SUFFIX,gamer-cds.cdn.hinet.net,🌍 国外媒体
+DOMAIN-SUFFIX,bigbigchannel.com.hk,🌍 国外媒体
+DOMAIN-SUFFIX,bigbigshop.com,🌍 国外媒体
+DOMAIN-SUFFIX,encoretvb.com,🌍 国外媒体
+DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
+DOMAIN-SUFFIX,tvb.com.au,🌍 国外媒体
+DOMAIN-SUFFIX,tvbanywhere.com,🌍 国外媒体
+DOMAIN-SUFFIX,tvbanywhere.com.sg,🌍 国外媒体
+DOMAIN-SUFFIX,tvbc.com.cn,🌍 国外媒体
+DOMAIN-SUFFIX,tvbeventpower.com.hk,🌍 国外媒体
+DOMAIN-SUFFIX,tvbusa.com,🌍 国外媒体
+DOMAIN-SUFFIX,tvbweekly.com,🌍 国外媒体
+DOMAIN-SUFFIX,tvmedia.net.au,🌍 国外媒体
+DOMAIN-SUFFIX,dazn-api.com,🌍 国外媒体
+DOMAIN-SUFFIX,dazn.com,🌍 国外媒体
+DOMAIN-SUFFIX,dazndn.com,🌍 国外媒体
+DOMAIN-SUFFIX,indazn.com,🌍 国外媒体
+DOMAIN-SUFFIX,indaznlab.com,🌍 国外媒体
+DOMAIN-SUFFIX,cinemax.com,🌍 国外媒体
+DOMAIN-SUFFIX,forthethrone.com,🌍 国外媒体
+DOMAIN-SUFFIX,hbo.com,🌍 国外媒体
+DOMAIN-SUFFIX,hboasia.com,🌍 国外媒体
+DOMAIN-SUFFIX,hbogo.co.th,🌍 国外媒体
+DOMAIN-SUFFIX,hbogo.com,🌍 国外媒体
+DOMAIN-SUFFIX,hbogo.eu,🌍 国外媒体
+DOMAIN-SUFFIX,hbogoasia.com,🌍 国外媒体
+DOMAIN-SUFFIX,hbogoasia.hk,🌍 国外媒体
+DOMAIN-SUFFIX,hbogoasia.id,🌍 国外媒体
+DOMAIN-SUFFIX,hbogoasia.ph,🌍 国外媒体
+DOMAIN-SUFFIX,hbogoasia.sg,🌍 国外媒体
+DOMAIN-SUFFIX,hbogoasia.tw,🌍 国外媒体
+DOMAIN-SUFFIX,hbomax.com,🌍 国外媒体
+DOMAIN-SUFFIX,hbomaxcdn.com,🌍 国外媒体
+DOMAIN-SUFFIX,hbonow.com,🌍 国外媒体
+DOMAIN-SUFFIX,maxgo.com,🌍 国外媒体
+DOMAIN-SUFFIX,hbo.com.c.footprint.net,🌍 国外媒体
+DOMAIN-SUFFIX,hbo.com.edgesuite.net,🌍 国外媒体
+DOMAIN-SUFFIX,hbo.map.fastly.net,🌍 国外媒体
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net,🌍 国外媒体
+DOMAIN-SUFFIX,dmm.com,🌍 国外媒体
+DOMAIN-SUFFIX,dmm-extension.com,🌍 国外媒体
+DOMAIN-SUFFIX,dmmapis.com,🌍 国外媒体
+DOMAIN-SUFFIX,api-p.videomarket.jp,🌍 国外媒体
+DOMAIN-SUFFIX,dmm.co.jp,🌍 国外媒体
+DOMAIN-SUFFIX,dmmrex.com,🌍 国外媒体
+DOMAIN-SUFFIX,abema.io,🌍 国外媒体
+DOMAIN-SUFFIX,abema.tv,🌍 国外媒体
+DOMAIN-SUFFIX,abema-tv.com,🌍 国外媒体
+DOMAIN-SUFFIX,adx.promo,🌍 国外媒体
+DOMAIN-SUFFIX,ameba.jp,🌍 国外媒体
+DOMAIN-SUFFIX,amebame.com,🌍 国外媒体
+DOMAIN-SUFFIX,amebaownd.com,🌍 国外媒体
+DOMAIN-SUFFIX,amebaowndme.com,🌍 国外媒体
+DOMAIN-SUFFIX,ameblo.jp,🌍 国外媒体
+DOMAIN-SUFFIX,bucketeer.jp,🌍 国外媒体
+DOMAIN-SUFFIX,dokusho-ojikan.jp,🌍 国外媒体
+DOMAIN-SUFFIX,hayabusa.dev,🌍 国外媒体
+DOMAIN-SUFFIX,hayabusa.io,🌍 国外媒体
+DOMAIN-SUFFIX,hayabusa.media,🌍 国外媒体
+DOMAIN-SUFFIX,winticket.jp,🌍 国外媒体
+DOMAIN-SUFFIX,abematv.akamaized.net,🌍 国外媒体
+DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net,🌍 国外媒体
+DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net,🌍 国外媒体
+DOMAIN-SUFFIX,linear-abematv.akamaized.net,🌍 国外媒体
+DOMAIN-SUFFIX,vod-abematv.akamaized.net,🌍 国外媒体
+DOMAIN-SUFFIX,api.growthpush.com,🌍 国外媒体
+DOMAIN-SUFFIX,nicodic.jp,🌍 国外媒体
+DOMAIN-SUFFIX,nicomanga.jp,🌍 国外媒体
+DOMAIN-SUFFIX,niconico.com,🌍 国外媒体
+DOMAIN-SUFFIX,nicoseiga.jp,🌍 国外媒体
+DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
+DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
+DOMAIN-SUFFIX,simg.jp,🌍 国外媒体
